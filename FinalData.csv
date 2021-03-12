@@ -1,5 +1,5 @@
 day,temperature,windspeed,event
-01-01-2017,32F,6KMH,Rain
+01-01-2017,32,6,Rain
 01-02-2017,-99999,7,Sunny
 01-03-2017,28,-99999,Snow
 01-04-2017,-99999,7,0
